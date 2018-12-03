@@ -67,10 +67,7 @@ ul.no-list {
 }
 
 .ribbon {
-    background: #444;
-    color: #CCC;
     padding: 2em;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
     text-align: justify;
     font-size: 22px;
 }
@@ -78,6 +75,16 @@ ul.no-list {
 .ribbon-left {
     text-align: left;
     padding-right: 1em;
+}
+
+.letter {
+    color: #CCC;
+    background: #444;
+}
+
+.events {
+    background: #DDD;
+    color: #444;
 }
 
 /* This is the class used for the footer */
